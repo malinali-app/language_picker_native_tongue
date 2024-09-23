@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: languages_dart
+dependency_overrides:
+  languages_dart:
+    path: ../languages_dart

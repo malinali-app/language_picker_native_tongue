@@ -1,0 +1,22 @@
+name: language_picker_native_tongue
+description: Language picker dropdown and dialog.
+version: 1.0.0
+homepage: 
+repository: 
+
+environment:
+  sdk: ^3.3.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  languages_dart: ^1.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/fonts/Roboto/
